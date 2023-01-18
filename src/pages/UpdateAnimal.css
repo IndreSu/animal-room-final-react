@@ -1,0 +1,12 @@
+.Update-Animal label, input, textarea, select {
+    display: block;
+}
+
+.Update-Animal label, button {
+    margin-top: 0.8em;
+}
+
+.Update-Animal .error {
+  color  : red;
+}
+
